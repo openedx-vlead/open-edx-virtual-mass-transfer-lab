@@ -1,0 +1,400 @@
+{
+    "IIT_Guwahati-Mass_Transfer.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "IIT_Guwahati-Mass_Transfer.jpg", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "IIT Guwahati-Mass Transfer.jpg", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@IIT_Guwahati-Mass_Transfer.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIT-Guwahati", 
+            "VMT-IITG", 
+            "thumbnail", 
+            "IIT_Guwahati-Mass_Transfer.jpg", 
+            null
+        ]
+    }, 
+    "Separating.zip": {
+        "contentType": "application/zip", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "Separating.zip", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Separating.zip", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@Separating.zip", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "animation_2_final.swf": {
+        "contentType": "application/vnd.adobe.flash.movie", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "animation_2_final.swf", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "animation 2 final.swf", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@animation_2_final.swf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "animation_3.swf": {
+        "contentType": "application/vnd.adobe.flash.movie", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "animation_3.swf", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "animation 3.swf", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@animation_3.swf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "animation_3_final.swf": {
+        "contentType": "application/vnd.adobe.flash.movie", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "animation_3_final.swf", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "animation 3 final.swf", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@animation_3_final.swf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "astm.rar": {
+        "contentType": "application/x-rar", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "astm.rar", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "astm.rar", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@astm.rar", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "astm.swf": {
+        "contentType": "application/vnd.adobe.flash.movie", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "astm.swf", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "astm.swf", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@astm.swf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "cooling_tower1.swf": {
+        "contentType": "application/vnd.adobe.flash.movie", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "cooling_tower1.swf", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "cooling tower1.swf", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@cooling_tower1.swf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "design.rar": {
+        "contentType": "application/x-rar", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "design.rar", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "design.rar", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@design.rar", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "distillation-1.swf": {
+        "contentType": "application/vnd.adobe.flash.movie", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "distillation-1.swf", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "distillation-1.swf", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@distillation-1.swf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "distillation_21.swf": {
+        "contentType": "application/vnd.adobe.flash.movie", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "distillation_21.swf", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "distillation 21.swf", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@distillation_21.swf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "final.swf": {
+        "contentType": "application/vnd.adobe.flash.movie", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "final.swf", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "final.swf", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@final.swf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "final_chem.swf": {
+        "contentType": "application/vnd.adobe.flash.movie", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "final_chem.swf", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "final_chem.swf", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@final_chem.swf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "finallllllll.swf": {
+        "contentType": "application/vnd.adobe.flash.movie", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "finallllllll.swf", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "finallllllll.swf", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@finallllllll.swf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "forced.rar": {
+        "contentType": "application/x-rar", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "forced.rar", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "forced.rar", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@forced.rar", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "fourth.swf": {
+        "contentType": "application/vnd.adobe.flash.movie", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "fourth.swf", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "fourth.swf", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@fourth.swf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "mass_transfer.rar": {
+        "contentType": "application/x-rar", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "mass_transfer.rar", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "mass transfer.rar", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@mass_transfer.rar", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "memb1exe.rar": {
+        "contentType": "application/x-rar", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "memb1exe.rar", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "memb1exe.rar", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@memb1exe.rar", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "memb_2_exe.rar": {
+        "contentType": "application/x-rar", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "memb_2_exe.rar", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "memb 2 exe.rar", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@memb_2_exe.rar", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "rotary.rar": {
+        "contentType": "application/x-rar", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "rotary.rar", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "rotary.rar", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@rotary.rar", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "vapor.rar": {
+        "contentType": "application/x-rar", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "vapor.rar", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "vapor.rar", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@vapor.rar", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "vle.rar": {
+        "contentType": "application/x-rar", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "vle.rar", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "vle.rar", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@vle.rar", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "vle3.swf": {
+        "contentType": "application/vnd.adobe.flash.movie", 
+        "content_son": {
+            "category": "asset", 
+            "course": "VMT-IITG", 
+            "name": "vle3.swf", 
+            "org": "IIT-Guwahati", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "vle3.swf", 
+        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@vle3.swf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }
+}
