@@ -1,0 +1,33 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1.Drying methods which involves steam drying of products containing water is :&lt;&lt;&#10;(x) Supercritical drying&#10;( ) Contact drying&#10;( ) Convective drying&#10;( ) Freeze drying&#10;&#10;&gt;&gt;2. Drying method which involves absorbtion of radiofrequency and microwaves inside the material is :&lt;&lt;&#10;( ) Convective drying&#10;(x) Supercritical drying&#10;( ) Contact drying&#10;( ) Freeze drying&#10;&#10;&gt;&gt;3.Vaccum drying is a type of :&lt;&lt;&#10;( ) Contact drying&#10;( ) Convective drying&#10;(x) Natural drying&#10;( ) Freeze drying">
+<p>1.Drying methods which involves steam drying of products containing water is :</p>
+<multiplechoiceresponse>
+  <choicegroup label="1.Drying methods which involves steam drying of products containing water is :" type="MultipleChoice">
+    <choice correct="true">Supercritical drying</choice>
+    <choice correct="false">Contact drying</choice>
+    <choice correct="false">Convective drying</choice>
+    <choice correct="false">Freeze drying</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. Drying method which involves absorbtion of radiofrequency and microwaves inside the material is :</p>
+<multiplechoiceresponse>
+  <choicegroup label="2. Drying method which involves absorbtion of radiofrequency and microwaves inside the material is :" type="MultipleChoice">
+    <choice correct="false">Convective drying</choice>
+    <choice correct="true">Supercritical drying</choice>
+    <choice correct="false">Contact drying</choice>
+    <choice correct="false">Freeze drying</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3.Vaccum drying is a type of :</p>
+<multiplechoiceresponse>
+  <choicegroup label="3.Vaccum drying is a type of :" type="MultipleChoice">
+    <choice correct="false">Contact drying</choice>
+    <choice correct="false">Convective drying</choice>
+    <choice correct="true">Natural drying</choice>
+    <choice correct="false">Freeze drying</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

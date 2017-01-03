@@ -1,0 +1,33 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1.Throttling calorimeter is based upon principle:&lt;&lt;&#10;(x) Constant enthalpy expansion&#10;( ) Constant temperature expansion&#10;( ) Constant entropy expansion&#10;( ) None of these&#10;&#10;&gt;&gt;2.The total enthalpy of a system at 10 bar is 2000 J/g then state of the system should be :&lt;&lt;&#10;( ) Dry and superheated&#10;(x) Saturated&#10;( ) None&#10;( ) Wet&#10;&#10;&gt;&gt;3.Universal gas constant of a perfect gas&lt;&lt;&#10;( ) Increases with temperature&#10;( ) Decreases with temperature&#10;(x) None&#10;( ) Increases with molar mass">
+<p>1.Throttling calorimeter is based upon principle:</p>
+<multiplechoiceresponse>
+  <choicegroup label="1.Throttling calorimeter is based upon principle:" type="MultipleChoice">
+    <choice correct="true">Constant enthalpy expansion</choice>
+    <choice correct="false">Constant temperature expansion</choice>
+    <choice correct="false">Constant entropy expansion</choice>
+    <choice correct="false">None of these</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2.The total enthalpy of a system at 10 bar is 2000 J/g then state of the system should be :</p>
+<multiplechoiceresponse>
+  <choicegroup label="2.The total enthalpy of a system at 10 bar is 2000 J/g then state of the system should be :" type="MultipleChoice">
+    <choice correct="false">Dry and superheated</choice>
+    <choice correct="true">Saturated</choice>
+    <choice correct="false">None</choice>
+    <choice correct="false">Wet</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3.Universal gas constant of a perfect gas</p>
+<multiplechoiceresponse>
+  <choicegroup label="3.Universal gas constant of a perfect gas" type="MultipleChoice">
+    <choice correct="false">Increases with temperature</choice>
+    <choice correct="false">Decreases with temperature</choice>
+    <choice correct="true">None</choice>
+    <choice correct="false">Increases with molar mass</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

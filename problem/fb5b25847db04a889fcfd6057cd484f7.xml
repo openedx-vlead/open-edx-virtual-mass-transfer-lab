@@ -1,0 +1,23 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1.Which is mainly used to grind materials in mineral,cement,refractory,chemical industry etc :&lt;&lt;&#10;(x) Impact crusher&#10;( ) Ball mill&#10;( ) Jaw crusher&#10;( ) Rotary dryer&#10;&#10;&gt;&gt;2.Which is widely used to dry metallic and non metallic mineral :&lt;&lt;&#10;( ) Rotary dryer&#10;(x) Rotary dryer&#10;( ) Ball mill&#10;( ) Impact crusher">
+<p>1.Which is mainly used to grind materials in mineral,cement,refractory,chemical industry etc :</p>
+<multiplechoiceresponse>
+  <choicegroup label="1.Which is mainly used to grind materials in mineral,cement,refractory,chemical industry etc :" type="MultipleChoice">
+    <choice correct="true">Impact crusher</choice>
+    <choice correct="false">Ball mill</choice>
+    <choice correct="false">Jaw crusher</choice>
+    <choice correct="false">Rotary dryer</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2.Which is widely used to dry metallic and non metallic mineral :</p>
+<multiplechoiceresponse>
+  <choicegroup label="2.Which is widely used to dry metallic and non metallic mineral :" type="MultipleChoice">
+    <choice correct="false">Rotary dryer</choice>
+    <choice correct="true">Rotary dryer</choice>
+    <choice correct="false">Ball mill</choice>
+    <choice correct="false">Impact crusher</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

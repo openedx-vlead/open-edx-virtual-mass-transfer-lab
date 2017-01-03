@@ -1,0 +1,43 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1.Dialysis is driven by :&lt;&lt;&#10;(x) Pressure&#10;( ) Temperature&#10;( ) Concentration&#10;( ) Electrically&#10;&#10;&gt;&gt;2.A UF membrane has a pore size range of : :&lt;&lt;&#10;( ) 1-100 Angstrom&#10;(x) 1-100 Micrometer&#10;( ) 1-100 Nanometer&#10;( ) 1-10 Nanometer&#10;&#10;&gt;&gt;3.Thermosmosis is driven by :&lt;&lt;&#10;( ) Pressure&#10;( ) Concentration&#10;(x) Temperature&#10;( ) None&#10;&#10;&gt;&gt;4.The species that passes through the membrane are termed as :&lt;&lt;&#10;( ) Permeate&#10;( ) Retentate&#10;( ) Solution&#10;(x) None">
+<p>1.Dialysis is driven by :</p>
+<multiplechoiceresponse>
+  <choicegroup label="1.Dialysis is driven by :" type="MultipleChoice">
+    <choice correct="true">Pressure</choice>
+    <choice correct="false">Temperature</choice>
+    <choice correct="false">Concentration</choice>
+    <choice correct="false">Electrically</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2.A UF membrane has a pore size range of : :</p>
+<multiplechoiceresponse>
+  <choicegroup label="2.A UF membrane has a pore size range of : :" type="MultipleChoice">
+    <choice correct="false">1-100 Angstrom</choice>
+    <choice correct="true">1-100 Micrometer</choice>
+    <choice correct="false">1-100 Nanometer</choice>
+    <choice correct="false">1-10 Nanometer</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3.Thermosmosis is driven by :</p>
+<multiplechoiceresponse>
+  <choicegroup label="3.Thermosmosis is driven by :" type="MultipleChoice">
+    <choice correct="false">Pressure</choice>
+    <choice correct="false">Concentration</choice>
+    <choice correct="true">Temperature</choice>
+    <choice correct="false">None</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4.The species that passes through the membrane are termed as :</p>
+<multiplechoiceresponse>
+  <choicegroup label="4.The species that passes through the membrane are termed as :" type="MultipleChoice">
+    <choice correct="false">Permeate</choice>
+    <choice correct="false">Retentate</choice>
+    <choice correct="false">Solution</choice>
+    <choice correct="true">None</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
