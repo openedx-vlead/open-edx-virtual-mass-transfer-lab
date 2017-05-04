@@ -1,33 +1,29 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;1.Unit of diffusion flux is :&lt;&lt;&#10;(x) mol/(m^2. sec)&#10;( ) mol^2/(m^2. sec)&#10;( ) mol/(m. sec)&#10;( ) mol/(sec)&#10;&#10;&gt;&gt;2.Process in which individual molecules flow through a hole without collision between molecules :&lt;&lt;&#10;( ) Diffusion&#10;(x) Effusion&#10;( ) Convection&#10;( ) None&#10;&#10;&gt;&gt;3. Process in which individual molecules flow through a hole without collision between molecules :&lt;&lt;&#10;( ) Diffusion&#10;( ) Effusion&#10;(x) Convection&#10;( ) None">
-<p>1.Unit of diffusion flux is :</p>
-<multiplechoiceresponse>
-  <choicegroup label="1.Unit of diffusion flux is :" type="MultipleChoice">
-    <choice correct="true">mol/(m^2. sec)</choice>
-    <choice correct="false">mol^2/(m^2. sec)</choice>
-    <choice correct="false">mol/(m. sec)</choice>
-    <choice correct="false">mol/(sec)</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2.Process in which individual molecules flow through a hole without collision between molecules :</p>
-<multiplechoiceresponse>
-  <choicegroup label="2.Process in which individual molecules flow through a hole without collision between molecules :" type="MultipleChoice">
-    <choice correct="false">Diffusion</choice>
-    <choice correct="true">Effusion</choice>
-    <choice correct="false">Convection</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. Process in which individual molecules flow through a hole without collision between molecules :</p>
-<multiplechoiceresponse>
-  <choicegroup label="3. Process in which individual molecules flow through a hole without collision between molecules :" type="MultipleChoice">
-    <choice correct="false">Diffusion</choice>
-    <choice correct="false">Effusion</choice>
-    <choice correct="true">Convection</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1.Unit of diffusion flux is :</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1.Unit of diffusion flux is :" type="MultipleChoice">
+      <choice correct="true">mol/(m^2. sec)</choice>
+      <choice correct="false">mol^2/(m^2. sec)</choice>
+      <choice correct="false">mol/(m. sec)</choice>
+      <choice correct="false">mol/(sec)</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2.Process in which individual molecules flow through a hole without collision between molecules :</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2.Process in which individual molecules flow through a hole without collision between molecules :" type="MultipleChoice">
+      <choice correct="false">Diffusion</choice>
+      <choice correct="true">Effusion</choice>
+      <choice correct="false">Convection</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. Process in which individual molecules flow through a hole without collision between molecules :</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3. Process in which individual molecules flow through a hole without collision between molecules :" type="MultipleChoice">
+      <choice correct="false">Diffusion</choice>
+      <choice correct="false">Effusion</choice>
+      <choice correct="true">Convection</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

@@ -1,33 +1,29 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;1.If the reflection co-effecient is zero an osmotic membrane is :&lt;&lt;&#10;(x) None&#10;( ) Partially permeable&#10;( ) Impermeable&#10;( ) Fully permeable&#10;&#10;&gt;&gt;2.Which of the following membrane is used for dehydration of alcohol :&lt;&lt;&#10;( ) Cross linked PVA&#10;(x) Cellulose acetate&#10;( ) Polycarbonate&#10;( ) None&#10;&#10;&gt;&gt;3.With increasing membrane thickness selectivity of membrane:&lt;&lt;&#10;( ) Remains unchanged&#10;( ) Decreases&#10;(x) Increases&#10;( ) Can't Say">
-<p>1.If the reflection co-effecient is zero an osmotic membrane is :</p>
-<multiplechoiceresponse>
-  <choicegroup label="1.If the reflection co-effecient is zero an osmotic membrane is :" type="MultipleChoice">
-    <choice correct="true">None</choice>
-    <choice correct="false">Partially permeable</choice>
-    <choice correct="false">Impermeable</choice>
-    <choice correct="false">Fully permeable</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2.Which of the following membrane is used for dehydration of alcohol :</p>
-<multiplechoiceresponse>
-  <choicegroup label="2.Which of the following membrane is used for dehydration of alcohol :" type="MultipleChoice">
-    <choice correct="false">Cross linked PVA</choice>
-    <choice correct="true">Cellulose acetate</choice>
-    <choice correct="false">Polycarbonate</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3.With increasing membrane thickness selectivity of membrane:</p>
-<multiplechoiceresponse>
-  <choicegroup label="3.With increasing membrane thickness selectivity of membrane:" type="MultipleChoice">
-    <choice correct="false">Remains unchanged</choice>
-    <choice correct="false">Decreases</choice>
-    <choice correct="true">Increases</choice>
-    <choice correct="false">Can't Say</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1.If the reflection co-effecient is zero an osmotic membrane is :</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1.If the reflection co-effecient is zero an osmotic membrane is :" type="MultipleChoice">
+      <choice correct="true">None</choice>
+      <choice correct="false">Partially permeable</choice>
+      <choice correct="false">Impermeable</choice>
+      <choice correct="false">Fully permeable</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2.Which of the following membrane is used for dehydration of alcohol :</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2.Which of the following membrane is used for dehydration of alcohol :" type="MultipleChoice">
+      <choice correct="false">Cross linked PVA</choice>
+      <choice correct="true">Cellulose acetate</choice>
+      <choice correct="false">Polycarbonate</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3.With increasing membrane thickness selectivity of membrane:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3.With increasing membrane thickness selectivity of membrane:" type="MultipleChoice">
+      <choice correct="false">Remains unchanged</choice>
+      <choice correct="false">Decreases</choice>
+      <choice correct="true">Increases</choice>
+      <choice correct="false">Can't Say</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

@@ -1,33 +1,29 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;1.Which is mainly used to grind materials in mineral,cement,refractory,chemical industry etc :&lt;&lt;&#10;(x) Impact crusher&#10;( ) Ball mill&#10;( ) Jaw crusher&#10;( ) Rotary dryer&#10;&#10;&gt;&gt;2.Which can crush materials with size smaller than 500 mm&lt;&lt;&#10;( ) Impact crusher&#10;(x) Ball mill&#10;( ) Rotary dryer&#10;( ) Jaw crusher&#10;&#10;&gt;&gt;3.Which is used as primary and secondary crushing equipment to crush material with compression strength less than 320MPa:&lt;&lt;&#10;( ) Impact crusher&#10;( ) Ball mill&#10;(x) Jaw crusher&#10;( ) Rotary dryer">
-<p>1.Which is mainly used to grind materials in mineral,cement,refractory,chemical industry etc :</p>
-<multiplechoiceresponse>
-  <choicegroup label="1.Which is mainly used to grind materials in mineral,cement,refractory,chemical industry etc :" type="MultipleChoice">
-    <choice correct="true">Impact crusher</choice>
-    <choice correct="false">Ball mill</choice>
-    <choice correct="false">Jaw crusher</choice>
-    <choice correct="false">Rotary dryer</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2.Which can crush materials with size smaller than 500 mm</p>
-<multiplechoiceresponse>
-  <choicegroup label="2.Which can crush materials with size smaller than 500 mm" type="MultipleChoice">
-    <choice correct="false">Impact crusher</choice>
-    <choice correct="true">Ball mill</choice>
-    <choice correct="false">Rotary dryer</choice>
-    <choice correct="false">Jaw crusher</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3.Which is used as primary and secondary crushing equipment to crush material with compression strength less than 320MPa:</p>
-<multiplechoiceresponse>
-  <choicegroup label="3.Which is used as primary and secondary crushing equipment to crush material with compression strength less than 320MPa:" type="MultipleChoice">
-    <choice correct="false">Impact crusher</choice>
-    <choice correct="false">Ball mill</choice>
-    <choice correct="true">Jaw crusher</choice>
-    <choice correct="false">Rotary dryer</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1.Which is mainly used to grind materials in mineral,cement,refractory,chemical industry etc :</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1.Which is mainly used to grind materials in mineral,cement,refractory,chemical industry etc :" type="MultipleChoice">
+      <choice correct="true">Impact crusher</choice>
+      <choice correct="false">Ball mill</choice>
+      <choice correct="false">Jaw crusher</choice>
+      <choice correct="false">Rotary dryer</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2.Which can crush materials with size smaller than 500 mm</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2.Which can crush materials with size smaller than 500 mm" type="MultipleChoice">
+      <choice correct="false">Impact crusher</choice>
+      <choice correct="true">Ball mill</choice>
+      <choice correct="false">Rotary dryer</choice>
+      <choice correct="false">Jaw crusher</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3.Which is used as primary and secondary crushing equipment to crush material with compression strength less than 320MPa:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3.Which is used as primary and secondary crushing equipment to crush material with compression strength less than 320MPa:" type="MultipleChoice">
+      <choice correct="false">Impact crusher</choice>
+      <choice correct="false">Ball mill</choice>
+      <choice correct="true">Jaw crusher</choice>
+      <choice correct="false">Rotary dryer</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

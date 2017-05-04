@@ -1,13 +1,11 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;1.VLE data can be obtained from :&lt;&lt;&#10;(x) Raoult's law&#10;( ) Henry's law&#10;( ) Dalton's law&#10;( ) All">
-<p>1.VLE data can be obtained from :</p>
-<multiplechoiceresponse>
-  <choicegroup label="1.VLE data can be obtained from :" type="MultipleChoice">
-    <choice correct="true">Raoult's law</choice>
-    <choice correct="false">Henry's law</choice>
-    <choice correct="false">Dalton's law</choice>
-    <choice correct="false">All</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1.VLE data can be obtained from :</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1.VLE data can be obtained from :" type="MultipleChoice">
+      <choice correct="true">Raoult's law</choice>
+      <choice correct="false">Henry's law</choice>
+      <choice correct="false">Dalton's law</choice>
+      <choice correct="false">All</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

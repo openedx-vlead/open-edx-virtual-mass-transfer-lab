@@ -1,23 +1,20 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;1.Cross flow is a design in which air flow is directed ............ to the water flow.&lt;&lt;&#10;(x) Opposite&#10;( ) Perpendicular&#10;( ) Same direction&#10;( ) None&#10;&#10;&gt;&gt;2. Material balance around a wet cooling tower is governed by operational variables of makeup :&lt;&lt;&#10;( ) Flow rate&#10;(x) Evaporation&#10;( ) Draw off rate&#10;( ) All">
-<p>1.Cross flow is a design in which air flow is directed ............ to the water flow.</p>
-<multiplechoiceresponse>
-  <choicegroup label="1.Cross flow is a design in which air flow is directed ............ to the water flow." type="MultipleChoice">
-    <choice correct="true">Opposite</choice>
-    <choice correct="false">Perpendicular</choice>
-    <choice correct="false">Same direction</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. Material balance around a wet cooling tower is governed by operational variables of makeup :</p>
-<multiplechoiceresponse>
-  <choicegroup label="2. Material balance around a wet cooling tower is governed by operational variables of makeup :" type="MultipleChoice">
-    <choice correct="false">Flow rate</choice>
-    <choice correct="true">Evaporation</choice>
-    <choice correct="false">Draw off rate</choice>
-    <choice correct="false">All</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1.Cross flow is a design in which air flow is directed ............ to the water flow.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1.Cross flow is a design in which air flow is directed ............ to the water flow." type="MultipleChoice">
+      <choice correct="true">Opposite</choice>
+      <choice correct="false">Perpendicular</choice>
+      <choice correct="false">Same direction</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. Material balance around a wet cooling tower is governed by operational variables of makeup :</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2. Material balance around a wet cooling tower is governed by operational variables of makeup :" type="MultipleChoice">
+      <choice correct="false">Flow rate</choice>
+      <choice correct="true">Evaporation</choice>
+      <choice correct="false">Draw off rate</choice>
+      <choice correct="false">All</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

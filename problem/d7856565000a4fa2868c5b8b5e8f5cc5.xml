@@ -1,33 +1,29 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;1.Diffusion rate is a function of :&lt;&lt;&#10;(x) Only Temperature&#10;( ) Temperature and concentration&#10;( ) Temperature,pressure and concentration&#10;( ) None of these&#10;&#10;&gt;&gt;2.In knudsen diffusion the pore dia is ............... than the mean free path of the diffusing species :&lt;&lt;&#10;( ) Larger&#10;(x) Smaller&#10;( ) Can't Say&#10;( ) None&#10;&#10;&gt;&gt;3. Unit of diffusion co-effecient is :&lt;&lt;&#10;( ) m^2/sec&#10;( ) m/sec&#10;(x) kg/msec&#10;( ) kg/sec">
-<p>1.Diffusion rate is a function of :</p>
-<multiplechoiceresponse>
-  <choicegroup label="1.Diffusion rate is a function of :" type="MultipleChoice">
-    <choice correct="true">Only Temperature</choice>
-    <choice correct="false">Temperature and concentration</choice>
-    <choice correct="false">Temperature,pressure and concentration</choice>
-    <choice correct="false">None of these</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2.In knudsen diffusion the pore dia is ............... than the mean free path of the diffusing species :</p>
-<multiplechoiceresponse>
-  <choicegroup label="2.In knudsen diffusion the pore dia is ............... than the mean free path of the diffusing species :" type="MultipleChoice">
-    <choice correct="false">Larger</choice>
-    <choice correct="true">Smaller</choice>
-    <choice correct="false">Can't Say</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. Unit of diffusion co-effecient is :</p>
-<multiplechoiceresponse>
-  <choicegroup label="3. Unit of diffusion co-effecient is :" type="MultipleChoice">
-    <choice correct="false">m^2/sec</choice>
-    <choice correct="false">m/sec</choice>
-    <choice correct="true">kg/msec</choice>
-    <choice correct="false">kg/sec</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1.Diffusion rate is a function of :</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1.Diffusion rate is a function of :" type="MultipleChoice">
+      <choice correct="true">Only Temperature</choice>
+      <choice correct="false">Temperature and concentration</choice>
+      <choice correct="false">Temperature,pressure and concentration</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2.In knudsen diffusion the pore dia is ............... than the mean free path of the diffusing species :</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2.In knudsen diffusion the pore dia is ............... than the mean free path of the diffusing species :" type="MultipleChoice">
+      <choice correct="false">Larger</choice>
+      <choice correct="true">Smaller</choice>
+      <choice correct="false">Can't Say</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. Unit of diffusion co-effecient is :</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3. Unit of diffusion co-effecient is :" type="MultipleChoice">
+      <choice correct="false">m^2/sec</choice>
+      <choice correct="false">m/sec</choice>
+      <choice correct="true">kg/msec</choice>
+      <choice correct="false">kg/sec</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
