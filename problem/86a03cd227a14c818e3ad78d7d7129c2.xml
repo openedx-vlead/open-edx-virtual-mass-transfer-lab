@@ -1,33 +1,29 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;1.Cooling towers uses the circulating water of ................. for cooling :&lt;&lt;&#10;(x) Chemical plants&#10;( ) Power stations&#10;( ) Oil refinieries&#10;( ) All&#10;&#10;&gt;&gt;2.Water cooled chillers are .............. energy effluent then air cooled chillers :&lt;&lt;&#10;( ) More&#10;(x) Less&#10;( ) Equal&#10;( ) Can't say&#10;&#10;&gt;&gt;3.Wet cooling towers operates on the principle of :&lt;&lt;&#10;( ) Evaporation&#10;( ) Condensation&#10;(x) Both&#10;( ) None">
-<p>1.Cooling towers uses the circulating water of ................. for cooling :</p>
-<multiplechoiceresponse>
-  <choicegroup label="1.Cooling towers uses the circulating water of ................. for cooling :" type="MultipleChoice">
-    <choice correct="true">Chemical plants</choice>
-    <choice correct="false">Power stations</choice>
-    <choice correct="false">Oil refinieries</choice>
-    <choice correct="false">All</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2.Water cooled chillers are .............. energy effluent then air cooled chillers :</p>
-<multiplechoiceresponse>
-  <choicegroup label="2.Water cooled chillers are .............. energy effluent then air cooled chillers :" type="MultipleChoice">
-    <choice correct="false">More</choice>
-    <choice correct="true">Less</choice>
-    <choice correct="false">Equal</choice>
-    <choice correct="false">Can't say</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3.Wet cooling towers operates on the principle of :</p>
-<multiplechoiceresponse>
-  <choicegroup label="3.Wet cooling towers operates on the principle of :" type="MultipleChoice">
-    <choice correct="false">Evaporation</choice>
-    <choice correct="false">Condensation</choice>
-    <choice correct="true">Both</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1.Cooling towers uses the circulating water of ................. for cooling :</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1.Cooling towers uses the circulating water of ................. for cooling :" type="MultipleChoice">
+      <choice correct="true">Chemical plants</choice>
+      <choice correct="false">Power stations</choice>
+      <choice correct="false">Oil refinieries</choice>
+      <choice correct="false">All</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2.Water cooled chillers are .............. energy effluent then air cooled chillers :</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2.Water cooled chillers are .............. energy effluent then air cooled chillers :" type="MultipleChoice">
+      <choice correct="false">More</choice>
+      <choice correct="true">Less</choice>
+      <choice correct="false">Equal</choice>
+      <choice correct="false">Can't say</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3.Wet cooling towers operates on the principle of :</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3.Wet cooling towers operates on the principle of :" type="MultipleChoice">
+      <choice correct="false">Evaporation</choice>
+      <choice correct="false">Condensation</choice>
+      <choice correct="true">Both</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

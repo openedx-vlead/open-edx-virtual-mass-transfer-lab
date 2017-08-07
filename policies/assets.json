@@ -12,7 +12,7 @@
         }, 
         "displayname": "IIT Guwahati-Mass Transfer.jpg", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@IIT_Guwahati-Mass_Transfer.jpg", 
-        "import_path": null, 
+        "import_path": "IIT Guwahati-Mass Transfer.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -36,12 +36,12 @@
         }, 
         "displayname": "Separating.zip", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@Separating.zip", 
-        "import_path": null, 
+        "import_path": "Separating.zip", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "animation_2_final.swf": {
-        "contentType": "application/vnd.adobe.flash.movie", 
+        "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -53,12 +53,12 @@
         }, 
         "displayname": "animation 2 final.swf", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@animation_2_final.swf", 
-        "import_path": null, 
+        "import_path": "animation 2 final.swf", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "animation_3.swf": {
-        "contentType": "application/vnd.adobe.flash.movie", 
+        "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -70,12 +70,12 @@
         }, 
         "displayname": "animation 3.swf", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@animation_3.swf", 
-        "import_path": null, 
+        "import_path": "animation 3.swf", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "animation_3_final.swf": {
-        "contentType": "application/vnd.adobe.flash.movie", 
+        "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -87,12 +87,12 @@
         }, 
         "displayname": "animation 3 final.swf", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@animation_3_final.swf", 
-        "import_path": null, 
+        "import_path": "animation 3 final.swf", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "astm.rar": {
-        "contentType": "application/x-rar", 
+        "contentType": "application/rar", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -104,12 +104,12 @@
         }, 
         "displayname": "astm.rar", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@astm.rar", 
-        "import_path": null, 
+        "import_path": "astm.rar", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "astm.swf": {
-        "contentType": "application/vnd.adobe.flash.movie", 
+        "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -121,12 +121,12 @@
         }, 
         "displayname": "astm.swf", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@astm.swf", 
-        "import_path": null, 
+        "import_path": "astm.swf", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "cooling_tower1.swf": {
-        "contentType": "application/vnd.adobe.flash.movie", 
+        "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -138,12 +138,12 @@
         }, 
         "displayname": "cooling tower1.swf", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@cooling_tower1.swf", 
-        "import_path": null, 
+        "import_path": "cooling tower1.swf", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "design.rar": {
-        "contentType": "application/x-rar", 
+        "contentType": "application/rar", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -155,12 +155,12 @@
         }, 
         "displayname": "design.rar", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@design.rar", 
-        "import_path": null, 
+        "import_path": "design.rar", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "distillation-1.swf": {
-        "contentType": "application/vnd.adobe.flash.movie", 
+        "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -172,12 +172,12 @@
         }, 
         "displayname": "distillation-1.swf", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@distillation-1.swf", 
-        "import_path": null, 
+        "import_path": "distillation-1.swf", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "distillation_21.swf": {
-        "contentType": "application/vnd.adobe.flash.movie", 
+        "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -189,12 +189,12 @@
         }, 
         "displayname": "distillation 21.swf", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@distillation_21.swf", 
-        "import_path": null, 
+        "import_path": "distillation 21.swf", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "final.swf": {
-        "contentType": "application/vnd.adobe.flash.movie", 
+        "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -206,12 +206,12 @@
         }, 
         "displayname": "final.swf", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@final.swf", 
-        "import_path": null, 
+        "import_path": "final.swf", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "final_chem.swf": {
-        "contentType": "application/vnd.adobe.flash.movie", 
+        "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -223,12 +223,12 @@
         }, 
         "displayname": "final_chem.swf", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@final_chem.swf", 
-        "import_path": null, 
+        "import_path": "final_chem.swf", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "finallllllll.swf": {
-        "contentType": "application/vnd.adobe.flash.movie", 
+        "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -240,12 +240,12 @@
         }, 
         "displayname": "finallllllll.swf", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@finallllllll.swf", 
-        "import_path": null, 
+        "import_path": "finallllllll.swf", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "forced.rar": {
-        "contentType": "application/x-rar", 
+        "contentType": "application/rar", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -257,12 +257,12 @@
         }, 
         "displayname": "forced.rar", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@forced.rar", 
-        "import_path": null, 
+        "import_path": "forced.rar", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "fourth.swf": {
-        "contentType": "application/vnd.adobe.flash.movie", 
+        "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -274,12 +274,12 @@
         }, 
         "displayname": "fourth.swf", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@fourth.swf", 
-        "import_path": null, 
+        "import_path": "fourth.swf", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "mass_transfer.rar": {
-        "contentType": "application/x-rar", 
+        "contentType": "application/rar", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -291,12 +291,12 @@
         }, 
         "displayname": "mass transfer.rar", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@mass_transfer.rar", 
-        "import_path": null, 
+        "import_path": "mass transfer.rar", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "memb1exe.rar": {
-        "contentType": "application/x-rar", 
+        "contentType": "application/rar", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -308,12 +308,12 @@
         }, 
         "displayname": "memb1exe.rar", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@memb1exe.rar", 
-        "import_path": null, 
+        "import_path": "memb1exe.rar", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "memb_2_exe.rar": {
-        "contentType": "application/x-rar", 
+        "contentType": "application/rar", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -325,12 +325,12 @@
         }, 
         "displayname": "memb 2 exe.rar", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@memb_2_exe.rar", 
-        "import_path": null, 
+        "import_path": "memb 2 exe.rar", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "rotary.rar": {
-        "contentType": "application/x-rar", 
+        "contentType": "application/rar", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -342,12 +342,12 @@
         }, 
         "displayname": "rotary.rar", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@rotary.rar", 
-        "import_path": null, 
+        "import_path": "rotary.rar", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "vapor.rar": {
-        "contentType": "application/x-rar", 
+        "contentType": "application/rar", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -359,12 +359,12 @@
         }, 
         "displayname": "vapor.rar", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@vapor.rar", 
-        "import_path": null, 
+        "import_path": "vapor.rar", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "vle.rar": {
-        "contentType": "application/x-rar", 
+        "contentType": "application/rar", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -376,12 +376,12 @@
         }, 
         "displayname": "vle.rar", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@vle.rar", 
-        "import_path": null, 
+        "import_path": "vle.rar", 
         "locked": false, 
         "thumbnail_location": null
     }, 
     "vle3.swf": {
-        "contentType": "application/vnd.adobe.flash.movie", 
+        "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
             "course": "VMT-IITG", 
@@ -393,7 +393,7 @@
         }, 
         "displayname": "vle3.swf", 
         "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@vle3.swf", 
-        "import_path": null, 
+        "import_path": "vle3.swf", 
         "locked": false, 
         "thumbnail_location": null
     }
