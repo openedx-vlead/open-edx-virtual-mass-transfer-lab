@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "IIT_Guwahati-Mass_Transfer.jpg", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "IIT Guwahati-Mass Transfer.jpg", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@IIT_Guwahati-Mass_Transfer.jpg", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@IIT_Guwahati-Mass_Transfer.jpg", 
         "import_path": "IIT Guwahati-Mass Transfer.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIT-Guwahati", 
-            "VMT-IITG", 
+            "Virtual-Labs", 
+            "chemengg03", 
             "thumbnail", 
             "IIT_Guwahati-Mass_Transfer.jpg", 
             null
@@ -27,15 +27,15 @@
         "contentType": "application/zip", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "Separating.zip", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Separating.zip", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@Separating.zip", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@Separating.zip", 
         "import_path": "Separating.zip", 
         "locked": false, 
         "thumbnail_location": null
@@ -44,15 +44,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "animation_2_final.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "animation 2 final.swf", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@animation_2_final.swf", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@animation_2_final.swf", 
         "import_path": "animation 2 final.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -61,15 +61,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "animation_3.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "animation 3.swf", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@animation_3.swf", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@animation_3.swf", 
         "import_path": "animation 3.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -78,15 +78,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "animation_3_final.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "animation 3 final.swf", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@animation_3_final.swf", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@animation_3_final.swf", 
         "import_path": "animation 3 final.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -95,15 +95,15 @@
         "contentType": "application/rar", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "astm.rar", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "astm.rar", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@astm.rar", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@astm.rar", 
         "import_path": "astm.rar", 
         "locked": false, 
         "thumbnail_location": null
@@ -112,15 +112,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "astm.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "astm.swf", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@astm.swf", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@astm.swf", 
         "import_path": "astm.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -129,15 +129,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "cooling_tower1.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "cooling tower1.swf", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@cooling_tower1.swf", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@cooling_tower1.swf", 
         "import_path": "cooling tower1.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -146,15 +146,15 @@
         "contentType": "application/rar", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "design.rar", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "design.rar", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@design.rar", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@design.rar", 
         "import_path": "design.rar", 
         "locked": false, 
         "thumbnail_location": null
@@ -163,15 +163,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "distillation-1.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "distillation-1.swf", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@distillation-1.swf", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@distillation-1.swf", 
         "import_path": "distillation-1.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -180,15 +180,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "distillation_21.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "distillation 21.swf", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@distillation_21.swf", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@distillation_21.swf", 
         "import_path": "distillation 21.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -197,15 +197,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "final.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "final.swf", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@final.swf", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@final.swf", 
         "import_path": "final.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -214,15 +214,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "final_chem.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "final_chem.swf", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@final_chem.swf", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@final_chem.swf", 
         "import_path": "final_chem.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -231,15 +231,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "finallllllll.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "finallllllll.swf", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@finallllllll.swf", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@finallllllll.swf", 
         "import_path": "finallllllll.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -248,15 +248,15 @@
         "contentType": "application/rar", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "forced.rar", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "forced.rar", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@forced.rar", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@forced.rar", 
         "import_path": "forced.rar", 
         "locked": false, 
         "thumbnail_location": null
@@ -265,15 +265,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "fourth.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "fourth.swf", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@fourth.swf", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@fourth.swf", 
         "import_path": "fourth.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -282,15 +282,15 @@
         "contentType": "application/rar", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "mass_transfer.rar", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "mass transfer.rar", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@mass_transfer.rar", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@mass_transfer.rar", 
         "import_path": "mass transfer.rar", 
         "locked": false, 
         "thumbnail_location": null
@@ -299,15 +299,15 @@
         "contentType": "application/rar", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "memb1exe.rar", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "memb1exe.rar", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@memb1exe.rar", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@memb1exe.rar", 
         "import_path": "memb1exe.rar", 
         "locked": false, 
         "thumbnail_location": null
@@ -316,15 +316,15 @@
         "contentType": "application/rar", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "memb_2_exe.rar", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "memb 2 exe.rar", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@memb_2_exe.rar", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@memb_2_exe.rar", 
         "import_path": "memb 2 exe.rar", 
         "locked": false, 
         "thumbnail_location": null
@@ -333,15 +333,15 @@
         "contentType": "application/rar", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "rotary.rar", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "rotary.rar", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@rotary.rar", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@rotary.rar", 
         "import_path": "rotary.rar", 
         "locked": false, 
         "thumbnail_location": null
@@ -350,15 +350,15 @@
         "contentType": "application/rar", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "vapor.rar", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "vapor.rar", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@vapor.rar", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@vapor.rar", 
         "import_path": "vapor.rar", 
         "locked": false, 
         "thumbnail_location": null
@@ -367,15 +367,15 @@
         "contentType": "application/rar", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "vle.rar", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "vle.rar", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@vle.rar", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@vle.rar", 
         "import_path": "vle.rar", 
         "locked": false, 
         "thumbnail_location": null
@@ -384,15 +384,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "VMT-IITG", 
+            "course": "chemengg03", 
             "name": "vle3.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "vle3.swf", 
-        "filename": "asset-v1:IIT-Guwahati+VMT-IITG+Anytime+type@asset+block@vle3.swf", 
+        "filename": "asset-v1:Virtual-Labs+chemengg03+Anytime+type@asset+block@vle3.swf", 
         "import_path": "vle3.swf", 
         "locked": false, 
         "thumbnail_location": null
